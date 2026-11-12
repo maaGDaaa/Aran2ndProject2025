@@ -41,7 +41,7 @@ Use 10 historical daily closing prices for two selected assets (stocks listed on
 
 The full two-page assignment is provided in Greek, including all requirements and submission instructions:
 
-📄 **[View the original assignment PDF](assignment.pdf)**[assignment.pdf](https://github.com/user-attachments/files/34754759/assignment.pdf)
+📄 **[View the original assignment PDF](assignment.pdf)** [assignment.pdf](https://github.com/user-attachments/files/34754840/assignment.pdf)
 
 
 ## Note
